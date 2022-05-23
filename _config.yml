@@ -15,8 +15,7 @@ author: Anas Bin Izhar
 
 navbar-links:
   About Me: "aboutme"
-  Blogs: "aboutme"
- # Resources:
+  Blogs:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://anasizhar.github.io/"
