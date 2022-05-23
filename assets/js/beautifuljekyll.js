@@ -1,5 +1,4 @@
 // Dean Attali / Beautiful Jekyll 2020
-alert('Hello friend!')
 var BeautifulJekyllJS = {
 
   bigImgEl : null,
