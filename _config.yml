@@ -101,14 +101,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#000000"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#000000"
 text-col: "#00FF00"
 link-col: "#0000FF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#000000"
 footer-text-col: "#00FF00"
 footer-link-col: "#0000FF"
 footer-hover-col: "#0085A1"
